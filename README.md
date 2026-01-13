@@ -2,10 +2,10 @@
 
 ## Full Stack AI/ML Developer
 
-- 🌍  I'm based in Duliajan , India
+- 🌍  I'm based in Guwahati , India
 - 🖥️  See my portfolio at [Arnab's Works](http://arnabdeep-portfolio.vercel.app)
 - ✉️  You can contact me at [arnabdeepnath@gmail.com](mailto:arnabdeepnath@gmail.com)
-- ⚡  I am Villain
+- ⚡  Villain
 
 <!-- ### Skills -->
 
